@@ -1,8 +1,5 @@
 
 
-//variabel global
-int sks;
-
 int main() {
     //variabel lokal
     int umur;
